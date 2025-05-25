@@ -4,7 +4,7 @@ This repository contains the configuration of a network in Cisco Packet Tracer f
 
 ## Network Diagram
 
-![Three-Layer Hierarchical Model](figure\model.jpg)
+![Three-Layer Hierarchical Model](D:\clone_github\three-layer-hierarchical-model-in-Cisco\figure\model.jpg)
 
 ## Network Information
 
